@@ -1,6 +1,6 @@
 # Industrial Automation and Monitoring System using RFID with Access Control and Temperature Monitoring
 
-## Project Description
+## Project Description.
 
 An industrial automation and monitoring system that integrates RFID-based access control with temperature monitoring, safety monitoring, and energy-saving automation.
 
